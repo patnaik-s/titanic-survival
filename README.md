@@ -1,2 +1,2 @@
 # titanic-survival
-kaggle titanic survival competition
+kaggle titanic survival competition 
